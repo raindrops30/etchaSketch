@@ -39,3 +39,7 @@ html, body {
     display: flex;
     justify-content: center;
 }
+
+#userValue {
+    width: 20%;
+}
